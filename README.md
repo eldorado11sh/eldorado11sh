@@ -1,4 +1,4 @@
-<center><h1>Ahmed(Eddie) Hassan</h1></center>
+<center><h1>Elvis Miladinovic</h1></center>
 <img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
 
 # About Me
